@@ -9,7 +9,7 @@ android:
         - build-tools-21.1.1
         
 before_script:
-    - chmod +x ./gradwlew
+    - chmod +x ./gradlew
 
 
 
